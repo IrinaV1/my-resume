@@ -1,6 +1,6 @@
 :root{
-    --branding-color: rgb(247, 247, 78);
-    --secondary-color: rgb(224, 135, 205);
+    --branding-color: rgb(238, 237, 237);
+    --secondary-color: #fbfcfc;
     --heading-font-family: 'Public Sans', sans-serif;
     --default-font-family: 'Roboto', sans-serif;
 }
