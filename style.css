@@ -143,6 +143,10 @@ footer .contact-box{
 footer .contact-box p{
     margin: 0;
 }
+.project{
+    font-size: 14px;
+    color: black;
+}
 
 @media (max-width: 900px) {
    .h-1 {
